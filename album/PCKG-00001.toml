@@ -1,0 +1,19 @@
+[album]
+album_id = "d30ac2cf-d21a-4de1-af63-924b9c5f9955"
+title = "unified perspective"
+artist = "agraph"
+date = 2022-01-05
+type = "normal"
+catalog = "PCKG-00001"
+tags = ["平家物語"]
+
+[[discs]]
+catalog = "PCKG-00001"
+
+[[discs.tracks]]
+title = "unified perspective (variation)"
+artist = "agraph、ANI(スチャダラパー)"
+
+[[discs.tracks]]
+title = "unified perspective"
+artist = "agraph"

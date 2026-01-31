@@ -1,0 +1,47 @@
+[album]
+album_id = "e8b6cde9-8dcf-435f-9064-422b3adbcb2b"
+title = "ピンクネオン東京 第二弾"
+artist = "Pink Neon Tokyo"
+date = 2017-11-14
+type = "absolute"
+catalog = "PNTCS-0002"
+tags = ["Pink Neon Tokyo"]
+
+[[discs]]
+catalog = "PNTCS-0002"
+
+[[discs.tracks]]
+title = "ラブリーＢａｂｙ feat. Moemi"
+artist = "kissmenerdygirl"
+
+[[discs.tracks]]
+title = "Next To You"
+artist = "Bamboo"
+
+[[discs.tracks]]
+title = "痛んだティグレット"
+artist = "Tenma Tenma"
+
+[[discs.tracks]]
+title = "シャイニング・サン Shining Sun"
+artist = "ミカヅキBIGWAVE"
+
+[[discs.tracks]]
+title = "青い夜"
+artist = "Nekura"
+
+[[discs.tracks]]
+title = "Kishi"
+artist = "INTERNET ORDER"
+
+[[discs.tracks]]
+title = "サムシング"
+artist = "Sugarcream幻想"
+
+[[discs.tracks]]
+title = "Wildスタイル"
+artist = "Waifu Avenue"
+
+[[discs.tracks]]
+title = "The Emotions"
+artist = "Τ Λ Я Λ"
