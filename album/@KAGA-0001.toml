@@ -1,0 +1,51 @@
+[album]
+album_id = "1fc5c44f-3cc5-4702-ac5c-09087b208b3b"
+title = "超かぐや姫！"
+artist = "Various Artists"
+date = 2026-01-23
+type = "normal"
+catalog = "@KAGA-0001"
+tags = ["超かぐや姫！"]
+
+[[discs]]
+catalog = "@KAGA-0001"
+
+[[discs.tracks]]
+title = "Remember"
+artist = "yuigot、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "星降る海"
+artist = "Aqu3ra、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "私は、わたしの事が好き。"
+artist = "HoneyWorks、かぐや、夏吉ゆうこ"
+
+[[discs.tracks]]
+title = "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]"
+artist = "ryo、かぐや、夏吉ゆうこ、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "Ex-Otogibanashi"
+artist = "ryo、かぐや、夏吉ゆうこ、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "ハッピーシンセサイザ (Cover)"
+artist = "かぐや、夏吉ゆうこ"
+
+[[discs.tracks]]
+title = "瞬間、シンフォニー。"
+artist = "40mP、かぐや、夏吉ゆうこ"
+
+[[discs.tracks]]
+title = "Reply"
+artist = "KZ、かぐや、夏吉ゆうこ"
+
+[[discs.tracks]]
+title = "ray (超かぐや姫! Version)"
+artist = "かぐや、夏吉ゆうこ、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "メルト (かぐや ver.) [CPK! Remix]"
+artist = "ryo、かぐや、夏吉ゆうこ"

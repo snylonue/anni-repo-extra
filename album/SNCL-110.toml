@@ -1,0 +1,35 @@
+[album]
+album_id = "b71f60f9-22dd-4b75-bff2-5f86cd471604"
+title = "Ex-Otogibanashi"
+artist = "ryo"
+date = 2026-01-23
+type = "normal"
+catalog = "SNCL-110"
+tags = ["平家物語"]
+
+[[discs]]
+catalog = "SNCL-110"
+
+[[discs.tracks]]
+title = "Ex-Otogibanashi"
+artist = "ryo、かぐや、夏吉ゆうこ、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "ワールドイズマイン (かぐや&月見ヤチヨ ver.) [CPK! Remix]"
+artist = "ryo、かぐや、夏吉ゆうこ、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "メルト (かぐや ver.) [CPK! Remix]"
+artist = "ryo、かぐや、夏吉ゆうこ"
+
+[[discs.tracks]]
+title = "Ex-Otogibanashi (月見ヤチヨ ver.)"
+artist = "ryo、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "ワールドイズマイン (Anime ver.) [CPK! Remix]"
+artist = "ryo、かぐや、夏吉ゆうこ、月見ヤチヨ、早見沙織"
+
+[[discs.tracks]]
+title = "Ex-Otogibanashi (Anime ver.)"
+artist = "ryo、かぐや、夏吉ゆうこ、月見ヤチヨ、早見沙織"

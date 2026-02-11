@@ -1,0 +1,116 @@
+[album]
+album_id = "0a791ca9-11b8-42bb-9d24-bfb7bd262c75"
+title = "アニメーション映画『超かぐや姫！』オリジナル・サウンドトラック"
+artist = "コーニッシュ"
+date = 2026-01-23
+type = "normal"
+catalog = "FBAC-257"
+tags = ["平家物語"]
+
+[[discs]]
+catalog = "FBAC-257"
+
+[[discs.tracks]]
+title = "OPENING ACT@TSUKUYOMI"
+
+[[discs.tracks]]
+title = "酒寄彩葉"
+
+[[discs.tracks]]
+title = "かぐや爆誕。おい、ちょ、ま！"
+
+[[discs.tracks]]
+title = "ママみとバブみ"
+
+[[discs.tracks]]
+title = "フリーダムかぐや"
+
+[[discs.tracks]]
+title = "ガールズ☆パーティー"
+
+[[discs.tracks]]
+title = "ボナペティ体操"
+
+[[discs.tracks]]
+title = "TSUKUYOMI"
+
+[[discs.tracks]]
+title = "OnyXXX"
+
+[[discs.tracks]]
+title = "ヤチヨ降臨"
+
+[[discs.tracks]]
+title = "かぐやの布教"
+
+[[discs.tracks]]
+title = "天才彩葉の即興ジングル"
+
+[[discs.tracks]]
+title = "私の好きだったもの"
+
+[[discs.tracks]]
+title = "たいせつなひと"
+
+[[discs.tracks]]
+title = "News Tsukuyomi !!"
+
+[[discs.tracks]]
+title = "KASSEN -開幕-"
+
+[[discs.tracks]]
+title = "試合開始～！"
+
+[[discs.tracks]]
+title = "MIKADO -孤高の黒鬼-"
+
+[[discs.tracks]]
+title = "チームかぐやの反撃"
+
+[[discs.tracks]]
+title = "ヤチヨのお導き"
+
+[[discs.tracks]]
+title = "IROHA meets KAGUYA"
+
+[[discs.tracks]]
+title = "ヤチヨカップ優勝！"
+
+[[discs.tracks]]
+title = "月人ナイト"
+
+[[discs.tracks]]
+title = "チルる"
+
+[[discs.tracks]]
+title = "かぐやと彩葉"
+
+[[discs.tracks]]
+title = "零ゆる光彩"
+
+[[discs.tracks]]
+title = "モーメント・月"
+
+[[discs.tracks]]
+title = "うつし世の姫"
+
+[[discs.tracks]]
+title = "月影"
+
+[[discs.tracks]]
+title = "IROHA’S Dancing All Night"
+
+[[discs.tracks]]
+title = "ヤチヨのどじょうすくい"
+
+[[discs.tracks]]
+title = "FUSHI"
+
+[[discs.tracks]]
+title = "ヤチヨ絵巻"
+
+[[discs.tracks]]
+title = "満ちる月のセレナーデ ～八千年の旅～"
+
+[[discs.tracks]]
+title = "超かぐや姫！"
