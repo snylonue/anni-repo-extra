@@ -1,0 +1,634 @@
+[album]
+album_id = "ec44dae2-d3f7-4570-a34e-be6fd3ae6040"
+title = "Splatoon3 ORIGINAL SOUNDTRACK -Ordertune-"
+artist = "Various Artists"
+date = 2024-12-11
+type = "normal"
+catalog = "EBCD-10018~21"
+tags = ["splatoon"]
+
+[[discs]]
+catalog = "EBCD-10018"
+
+[[discs.tracks]]
+title = "まどろみ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "#0.1 unshell"
+artist = "Dedf1sh"
+
+[[discs.tracks]]
+title = "ヒメと出発"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "Θrder Square: Inciner8"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "Σntrance: Dynamis"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "First Principles"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "#12.2 awakened"
+artist = "Dedf1sh"
+
+[[discs.tracks]]
+title = "囚われのイイダ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "Monologue"
+artist = "イイダ"
+
+[[discs.tracks]]
+title = "オーダ出現"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "秩序世界の秘密"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "Θrder Square: Subjug8"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "Σntrance: Archon"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "Upward"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "demol1sh"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "demoli2h"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "d3molish"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "jest1ng"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "je2ting"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "j3sting"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "rout1nes"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "routine2"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "routin3s"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "souven1r"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "2ouvenir"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "souv3nir"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "j1tters"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "jitter2"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "jitt3rs"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "Floor Clear!（その1）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "Floor Clear!（その2）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "ゲットジングル（サイド・オーダー）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "サウンドバースト"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "CΘld StΘrage"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "ΘctΘpticΘn"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "EchΘ Θnslaught"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "Floor Clear!（ボス）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "リザルト（やられた）"
+artist = "[unknown]"
+
+[[discs]]
+catalog = "EBCD-10019"
+
+[[discs.tracks]]
+title = "オーダコ出現"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "New World Order"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "世界にあまねく秩序の平穏を"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "オンリー・オブリガート"
+artist = "テンタクルズ、Dedf1sh"
+
+[[discs.tracks]]
+title = "フルスロットル・テンタクル（Last Order）"
+artist = "テンタクルズ、Dedf1sh"
+
+[[discs.tracks]]
+title = "一件落着"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "#47 slumber"
+artist = "Dedf1sh、テンタクルズ"
+
+[[discs.tracks]]
+title = "Θrder Square: Liber8"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "Σntrance: Platonic Solid"
+artist = "Mnemonic Clouds"
+
+[[discs.tracks]]
+title = "コダコのテーマ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "コダコはかく語りき"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "ミーチュー・アゲイン"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "リザルト（クリア！）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "Pop 'n' Schlock"
+artist = "Chroma Chaos"
+
+[[discs.tracks]]
+title = "Clashing Colors"
+artist = "Medusa"
+
+[[discs.tracks]]
+title = "Dorsal Slicer"
+artist = "Nothing in my Wave"
+
+[[discs.tracks]]
+title = "ツートン・テリトリー"
+artist = "YOKO HORNS & FRIENDS"
+
+[[discs.tracks]]
+title = "ミルクバー・ドランカー"
+artist = "YOKO HORNS & FRIENDS"
+
+[[discs.tracks]]
+title = "ジェリーロール・ツイスター"
+artist = "YOKO HORNS & FRIENDS"
+
+[[discs.tracks]]
+title = "Ripstop & Go"
+artist = "H2Whoa"
+
+[[discs.tracks]]
+title = "Aquasonic"
+artist = "H2Whoa"
+
+[[discs.tracks]]
+title = "Happy Sprite"
+artist = "ABXY"
+
+[[discs.tracks]]
+title = "Counter Stop"
+artist = "ABXY"
+
+[[discs.tracks]]
+title = "Shifting Stars"
+artist = "O.C.K"
+
+[[discs.tracks]]
+title = "No Plan Survives"
+artist = "O.C.K"
+
+[[discs.tracks]]
+title = "アマルガマニア"
+artist = "SashiMori"
+
+[[discs.tracks]]
+title = "バッド・タイド"
+artist = "SashiMori"
+
+[[discs.tracks]]
+title = "カガヤクンどす・マーチ24h"
+artist = "クマサン商会、すりみ連合"
+
+[[discs.tracks]]
+title = "大過言"
+artist = "ω-3"
+
+[[discs.tracks]]
+title = "ノット・バッドじゃな！"
+artist = "クマサン商会、すりみ連合"
+
+[[discs]]
+catalog = "EBCD-10020"
+
+[[discs.tracks]]
+title = "鉄槌ピシャゲルド"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "蛮殻 MC BATTLE ～The King of Tentacular～"
+artist = "テンタクルズ、空帆、楓火"
+
+[[discs.tracks]]
+title = "蛮殻ミックスモダン（Splatoween）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "Deepers Creepers"
+artist = "Bloody Hook"
+
+[[discs.tracks]]
+title = "サンカクス（Splatoween）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "上げ潮ノッテモーテル（Splatoween）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "辛酸ナメマンタ（Splatoween）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "蛮殻ミックスモダン（Frosty Fest）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "Yule Tide"
+artist = "Decksterity"
+
+[[discs.tracks]]
+title = "サンカクス（Frosty Fest）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "上げ潮ノッテモーテル（Frosty Fest）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "辛酸ナメマンタ（Frosty Fest）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "蛮殻ミックスモダン（Spring Fest）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "Meadowlark"
+artist = "Saplings"
+
+[[discs.tracks]]
+title = "サンカクス（Spring Fest）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "上げ潮ノッテモーテル（Spring Fest）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "辛酸ナメマンタ（Spring Fest）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "蛮殻ミックスモダン（Summer Nights）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "Suntan Ocean"
+artist = "Reel Deel"
+
+[[discs.tracks]]
+title = "サンカクス（Summer Nights）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "上げ潮ノッテモーテル（Summer Nights）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "辛酸ナメマンタ（Summer Nights）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "上げ潮ノッテモーテル（1周年記念フェス-フウカチーム）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "辛酸ナメマンタ（1周年記念フェス-フウカチーム）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "上げ潮ノッテモーテル（1周年記念フェス-ウツホチーム）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "辛酸ナメマンタ（1周年記念フェス-ウツホチーム）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "上げ潮ノッテモーテル（1周年記念フェス-マンタローチーム）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "辛酸ナメマンタ（1周年記念フェス-マンタローチーム）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "ウルトラ・カラーパルス'24"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "ヘッドライナーズ・ハイ"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "再見オネノネノン"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "バンカラ三中校歌（とある卒業式の記録）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "すじこジャンクション"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：オーダーシューター（チップ強化）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：ネリバースのインク"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：エレベーター"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：目標：ポータルを壊せ！"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：目標：プロペラヤグラを運べ！"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：目標：ボールを運べ！"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：ゴロゴロマルチャーレ（転がる）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：カイセンロンド（回る）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：イカイノカノン（群れる）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：オーダコ（蠢く）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（アオリ）オンステージ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（ホタル）オンステージ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（ヒメ）オンステージ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（イイダ）オンステージ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（フウカ）オンステージ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（ウツホ）オンステージ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（マンタロー）オンステージ"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（シオカラーズ）登場キメ台詞"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（テンタクルズ）登場キメ台詞"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "SE：声（すりみ連合）登場キメ台詞"
+artist = "[unknown]"
+
+[[discs]]
+catalog = "EBCD-10021"
+
+[[discs.tracks]]
+title = "バンカラジオ（グランドフェスティバル）"
+artist = "[unknown]"
+type = "radio"
+
+[[discs.tracks]]
+title = "グランドフェスティバルめぐり"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "Soak & Stomp (Grand Mix)"
+artist = "Anglerfish、NAGARE"
+
+[[discs.tracks]]
+title = "サンカクス（グランドフェスティバル）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "BRANDNEW HOMETOWN ～それより明日の話を～（グランドフェスティバル）"
+artist = "シオカラーズ"
+
+[[discs.tracks]]
+title = "春風とペトリコール（グランドフェスティバル）"
+artist = "シオカラーズ"
+
+[[discs.tracks]]
+title = "ヘッドライナーズ・ハイ（グランドフェスティバル）"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "タイム・トライブ"
+artist = "ヌラネバセブン"
+
+[[discs.tracks]]
+title = "ときめきスミソアエ ～You★Me Grand Mix～"
+artist = "シオカラーズ"
+
+[[discs.tracks]]
+title = "グランドシオカラウルトラミックスモダン"
+artist = "ヌラネバセブン"
+
+[[discs.tracks]]
+title = "ハイカラ・パンチ"
+artist = "シオカラーズ"
+
+[[discs.tracks]]
+title = "ジダンダ・キック"
+artist = "シオカラーズ"
+
+[[discs.tracks]]
+title = "フェスティバル・ゼスト（グランドフェスティバル）"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "パーティーズ・オーバー（グランドフェスティバル）"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "バンカラジオ（バンカライブ轟）"
+artist = "すりみ連合"
+type = "radio"
+
+[[discs.tracks]]
+title = "オープニング（バンカライブ轟）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "Counter Stop（バンカライブ轟）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "Aquasonic（バンカライブ轟）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "ツートン・テリトリー（バンカライブ轟）"
+artist = "[unknown]"
+
+[[discs.tracks]]
+title = "張拳ゴーアヘッド（バンカライブ轟）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "衝天プチョフィンザ（バンカライブ轟）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "MC1（バンカライブ轟）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "疾風怒涛カチコンドル（バンカライブ轟）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "天命反転ローリンストン（バンカライブ轟）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "MC2（バンカライブ轟）"
+artist = "すりみ連合、テンタクルズ"
+
+[[discs.tracks]]
+title = "ゼンゲン・テッカイ（バンカライブ轟）"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "サイタン・ケーロ（バンカライブ轟）"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "MC3（バンカライブ轟）"
+artist = "テンタクルズ"
+
+[[discs.tracks]]
+title = "鉄槌ピシャゲルド（バンカライブ轟）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "再見オネノネノン（バンカライブ轟）"
+artist = "すりみ連合"
+
+[[discs.tracks]]
+title = "MC4（バンカライブ轟）"
+artist = "すりみ連合、テンタクルズ"
+
+[[discs.tracks]]
+title = "蛮殻ミックスモダン（バンカライブ轟）"
+artist = "すりみ連合、テンタクルズ"

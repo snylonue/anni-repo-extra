@@ -10,3 +10,7 @@ type = "group"
 [[tag]]
 name = "超かぐや姫！"
 type = "animation"
+
+[[tag]]
+name = "splatoon"
+type = "game"
